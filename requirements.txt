@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+pandas
+openpyxl
+google-genai
+pillow
