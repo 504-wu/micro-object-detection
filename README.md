@@ -18,6 +18,7 @@
 - detection.py：影像前處理、備援 AI 串接、SQLite 讀寫及互動式網頁與 Excel 導出的一體化程式。
 
 # 執行成果
+<img width="1782" height="391" alt="報表分析" src="https://github.com/user-attachments/assets/d9f23858-0b96-48cb-a742-ee14389161e6" />
 
 # Streamlit 網頁測試網址
 - https://micro-object-detection.streamlit.app/
