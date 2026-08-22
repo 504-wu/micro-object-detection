@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import io
 import sqlite3
-from google import genai
+from google import genai  
 from google.genai import types
 from PIL import Image  
 
